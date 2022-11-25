@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Taha Ebaed
-- 👀 Passionate Fresh Front End developer with great problem-solving and communication skills. Work with HTML, CSS, Bootstrap, JavaScript, angular, and react.
+- 👀 Passionate Front End developer with great problem-solving and communication skills. Work with HTML, CSS, Bootstrap, JavaScript, angular, and react.
 - 🌱 I’m currently learning advanced Angular, React.Js
 - 📫 How to reach me : 
    - FB : https://www.facebook.com/taha.ebaed/
