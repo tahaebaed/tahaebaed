@@ -75,8 +75,7 @@ Modern donation platform with authentication, cart flow, and payment integration
 **Tech Stack:**  
 `React.js` `Next.js` `Redux` `Paymob` `Fawry` `CIB`
 
-🔗 **Live Demo:** Add link here  
-📦 **Repository:** Add link here
+🔗 **Live Demo:** [Link](https://lifemakers.org/)  
 
 ---
 
@@ -94,8 +93,7 @@ Realtime tracking dashboard using live location updates and interactive map visu
 **Tech Stack:**  
 `Socket.io` `Leaflet` `GraphQL` `JavaScript`
 
-🔗 **Live Demo:** Add link here  
-📦 **Repository:** Add link here
+📦 **Repository:** [Link](https://github.com/tahaebaed/hndl)
 
 ---
 
@@ -106,8 +104,8 @@ Responsive movie search application with pagination, routing, and favorites mana
 **Tech Stack:**  
 `React` `Redux` `Bootstrap` `React Router`
 
-🔗 **Live Demo:** Add link here  
-📦 **Repository:** Add link here
+🔗 **Live Demo:** [Link](https://tahaebaed.github.io/movie-app/)
+📦 **Repository:** [Link](https://github.com/tahaebaed/movie-app)
 
 ---
 
@@ -118,8 +116,8 @@ Book management app that lets users organize books into reading categories.
 **Tech Stack:**  
 `React` `React Router` `JavaScript` `CSS`
 
-🔗 **Live Demo:** Add link here  
-📦 **Repository:** Add link here
+🔗 **Live Demo:** [Link](https://my-reads-five.vercel.app/)  
+📦 **Repository:** [Link](https://github.com/tahaebaed/My-Reads)
 
 ---
 
