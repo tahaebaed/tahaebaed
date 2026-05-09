@@ -1,21 +1,33 @@
-````md
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_URL" alt="banner" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Taha%20Ebaed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 # Hey, I'm Taha Ebaed 👋
 
-### Frontend Engineer • React & Next.js Specialist • Flutter Developer
+### Frontend Engineer • React & Next.js Developer • Flutter Developer
 
-Building scalable, performant, and visually polished web & mobile applications.
+Frontend Engineer focused on building scalable, high-performance web & mobile experiences using React, Next.js, and Flutter.
 
 <p align="center">
-  <a href="https://taha-ebaed.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/taha-ebaed">LinkedIn</a> •
-  <a href="mailto:tahaebaed7@gmail.com">Email</a>
+  <a href="https://taha-ebaed.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/taha-ebaed">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tahaebaed7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/tahaebaed">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Engineer;React+%2F+Next.js+Developer;Flutter+Developer;UI%2FUX+Focused+Builder)](https://git.io/typing-svg)
+<img src="https://komarev.com/ghpvc/?username=tahaebaed&color=blueviolet&style=flat-square" />
+
+<br />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Engineer;React+%2F+Next.js+Developer;Flutter+Developer;Performance+%26+UI%2FUX+Focused)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,31 +35,14 @@ Building scalable, performant, and visually polished web & mobile applications.
 
 ## 🚀 About Me
 
-```ts
-const taha = {
-  location: "Cairo, Egypt",
-  role: "Frontend Engineer",
-  experience: "2+ Years",
-  currentFocus: [
-    "Scalable Frontend Architecture",
-    "Performance Optimization",
-    "Flutter Mobile Apps",
-    "Data Structures & Algorithms"
-  ],
-  technologies: {
-    frontend: [
-      "React",
-      "Next.js",
-      "TypeScript",
-      "Redux",
-      "TailwindCSS"
-    ],
-    mobile: ["Flutter"],
-    backend: ["Node.js", "Express.js", "GraphQL"],
-    tools: ["Git", "Figma", "Firebase", "Vercel"]
-  }
-};
-````
+Frontend Engineer from Cairo, Egypt 🇪🇬
+
+- 2+ years building production-grade web applications
+- Specialized in React.js, Next.js, Redux, and TypeScript
+- Building cross-platform mobile apps with Flutter
+- Experienced with payment integrations including Paymob, Fawry, Bank Misr, and CIB
+- Passionate about clean UI, performance optimization, and scalable frontend architecture
+- Currently learning Data Structures, Algorithms, and System Design
 
 ---
 
@@ -57,151 +52,145 @@ const taha = {
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,bootstrap,sass" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,bootstrap,sass,html,css" />
 
-### Backend & Database
+### Backend & APIs
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,firebase" />
 
 ### Mobile & Tools
 
-<img src="https://skillicons.dev/icons?i=flutter,figma,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=flutter,figma,git,github,vscode,vercel" />
 
 </div>
 
 ---
 
-# ✨ Featured Projects
+## ✨ Featured Projects
 
-## 🛒 Life Makers NGO Platform
+### 🛒 Life Makers NGO Platform
 
-Modern donation platform with authentication, cart system, and payment integrations.
+Modern donation platform with authentication, cart flow, and payment integrations.
 
-### Tech Stack
+**Tech Stack:**  
+`React.js` `Next.js` `Redux` `Paymob` `Fawry` `CIB`
 
-* React.js
-* Next.js
-* Redux
-* Paymob
-* Fawry
-* CIB
-
-🔗 Add Live Demo Here
-🔗 Add Repository Here
+🔗 **Live Demo:** Add link here  
+📦 **Repository:** Add link here
 
 ---
 
-## 📍 Real-Time GPS Tracking System
+### 📍 Real-Time GPS Tracking System
 
-Realtime tracking dashboard using Socket.io and map visualizations.
+Realtime tracking dashboard using live location updates and interactive map visualization.
 
-### Features
+**Features:**
 
-* Live location updates
-* Interactive maps
-* Real-time synchronization
-* Optimized performance
+- Live location updates
+- Interactive maps
+- Real-time synchronization
+- Optimized frontend performance
 
-### Tech Stack
+**Tech Stack:**  
+`Socket.io` `Leaflet` `GraphQL` `JavaScript`
 
-* Socket.io
-* Leaflet
-* GraphQL
-* JavaScript
-
-🔗 Add Live Demo Here
-🔗 Add Repository Here
+🔗 **Live Demo:** Add link here  
+📦 **Repository:** Add link here
 
 ---
 
-## 🎬 Movie Discovery App
+### 🎬 Movie Discovery App
 
-Responsive movie search application with filtering, pagination, and favorites management.
+Responsive movie search application with pagination, routing, and favorites management.
 
-### Tech Stack
+**Tech Stack:**  
+`React` `Redux` `Bootstrap` `React Router`
 
-* React
-* Redux
-* Bootstrap
-* React Router
-
-🔗 Add Live Demo Here
-🔗 Add Repository Here
+🔗 **Live Demo:** Add link here  
+📦 **Repository:** Add link here
 
 ---
 
-# 📊 GitHub Analytics
+### 📚 My Reads App
+
+Book management app that lets users organize books into reading categories.
+
+**Tech Stack:**  
+`React` `React Router` `JavaScript` `CSS`
+
+🔗 **Live Demo:** Add link here  
+📦 **Repository:** Add link here
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tahaebaed&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tahaebaed&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaebaed&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaebaed&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=tahaebaed&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=tahaebaed&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🏆 Achievements
+## 🏆 Highlights
 
-* Built scalable production applications for real businesses
-* Integrated payment systems (Paymob, Fawry, Bank Misr, CIB)
-* Developed cross-platform Flutter applications
-* Improved application performance and UX across multiple projects
-* Built real-time systems using Socket.io and GraphQL
-
----
-
-# 🌱 Currently Learning
-
-* Advanced Data Structures & Algorithms
-* System Design
-* Scalable Frontend Architecture
-* Advanced TypeScript Patterns
+- Built scalable production applications for real businesses
+- Developed responsive web apps using React.js and Next.js
+- Integrated payment systems including Paymob, Fawry, Bank Misr, and CIB
+- Built mobile app features using Flutter
+- Worked with real-time systems using Socket.io
+- Used GraphQL for data-driven application features
+- Improved application performance, usability, and responsiveness
 
 ---
 
-# 🤝 Connect With Me
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- System Design
+- Advanced TypeScript
+- Scalable Frontend Architecture
+- Performance Optimization
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/taha-ebaed">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/tahaebaed">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="mailto:tahaebaed7@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
 
 <a href="https://taha-ebaed.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
+<a href="https://www.linkedin.com/in/taha-ebaed">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:tahaebaed7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/tahaebaed">
+  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-### 💻 "Clean UI. Fast Performance. Great User Experience."
+### 💻 Clean UI. Fast Performance. Great User Experience.
 
 </div>
 
----
-
-<div align="center">
-
-![snake gif](https://github.com/tahaebaed/tahaebaed/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
