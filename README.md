@@ -1,33 +1,207 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Taha Ebaed
-==================================================================================================================================
+````md
+<div align="center">
 
-Front-end Developer
--------------------
+<img src="YOUR_BANNER_IMAGE_URL" alt="banner" width="100%" />
 
-Results-oriented front-end developer with more than two years of active experience in the design of dynamic and user-oriented web and mobile applications. Proficient in React.js, Next.js, and Redux; CSS technologies in crafting responsive and high-performance solutions. Later on, I developed fully functional cross-device-friendly mobile applications using Flutter. I always focus on intuitive and visually attractive design; therefore, my solutions have always been very successful in increasing customer satisfaction and engagement. I am committed to ensuring that at all times, performance and usability are optimized to meet user expectations in all my products.
+# Hey, I'm Taha Ebaed 👋
 
-* 🌍  I'm based in Cairo, Egypt
-* 🖥️  See my portfolio at [https://taha-ebaed.vercel.app/](http://taha-ebaed.vercel.app/)
-* ✉️  You can contact me at [tahaebaed7@gmail.com](mailto:tahaebaed7@gmail.com)
-* 🚀  I'm currently working on [Ta-telecom](http://www.tatelecom.com/)
-* 🧠  I'm learning Data Structure and algorithms
+### Frontend Engineer • React & Next.js Specialist • Flutter Developer
 
-### Skills
+Building scalable, performant, and visually polished web & mobile applications.
 
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<p align="center">
+  <a href="https://taha-ebaed.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/taha-ebaed">LinkedIn</a> •
+  <a href="mailto:tahaebaed7@gmail.com">Email</a>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Engineer;React+%2F+Next.js+Developer;Flutter+Developer;UI%2FUX+Focused+Builder)](https://git.io/typing-svg)
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://www.dev.to/tahaebaed" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/tebaed" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/tahaebaed" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/taha-ebaed" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@tahaebaed2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Support Me
+## 🚀 About Me
 
-<ul style="list-style-type: none; margin: 0;">
+```ts
+const taha = {
+  location: "Cairo, Egypt",
+  role: "Frontend Engineer",
+  experience: "2+ Years",
+  currentFocus: [
+    "Scalable Frontend Architecture",
+    "Performance Optimization",
+    "Flutter Mobile Apps",
+    "Data Structures & Algorithms"
+  ],
+  technologies: {
+    frontend: [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Redux",
+      "TailwindCSS"
+    ],
+    mobile: ["Flutter"],
+    backend: ["Node.js", "Express.js", "GraphQL"],
+    tools: ["Git", "Figma", "Firebase", "Vercel"]
+  }
+};
+````
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/tahaebaed"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+---
 
-</ul>
+## 🧠 Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,bootstrap,sass" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,firebase" />
+
+### Mobile & Tools
+
+<img src="https://skillicons.dev/icons?i=flutter,figma,git,github,vscode" />
+
+</div>
+
+---
+
+# ✨ Featured Projects
+
+## 🛒 Life Makers NGO Platform
+
+Modern donation platform with authentication, cart system, and payment integrations.
+
+### Tech Stack
+
+* React.js
+* Next.js
+* Redux
+* Paymob
+* Fawry
+* CIB
+
+🔗 Add Live Demo Here
+🔗 Add Repository Here
+
+---
+
+## 📍 Real-Time GPS Tracking System
+
+Realtime tracking dashboard using Socket.io and map visualizations.
+
+### Features
+
+* Live location updates
+* Interactive maps
+* Real-time synchronization
+* Optimized performance
+
+### Tech Stack
+
+* Socket.io
+* Leaflet
+* GraphQL
+* JavaScript
+
+🔗 Add Live Demo Here
+🔗 Add Repository Here
+
+---
+
+## 🎬 Movie Discovery App
+
+Responsive movie search application with filtering, pagination, and favorites management.
+
+### Tech Stack
+
+* React
+* Redux
+* Bootstrap
+* React Router
+
+🔗 Add Live Demo Here
+🔗 Add Repository Here
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tahaebaed&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaebaed&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=tahaebaed&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+* Built scalable production applications for real businesses
+* Integrated payment systems (Paymob, Fawry, Bank Misr, CIB)
+* Developed cross-platform Flutter applications
+* Improved application performance and UX across multiple projects
+* Built real-time systems using Socket.io and GraphQL
+
+---
+
+# 🌱 Currently Learning
+
+* Advanced Data Structures & Algorithms
+* System Design
+* Scalable Frontend Architecture
+* Advanced TypeScript Patterns
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/taha-ebaed">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/tahaebaed">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:tahaebaed7@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://taha-ebaed.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 "Clean UI. Fast Performance. Great User Experience."
+
+</div>
+
+---
+
+<div align="center">
+
+![snake gif](https://github.com/tahaebaed/tahaebaed/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+```
